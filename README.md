@@ -1,3 +1,3 @@
 # test-git
 
-Change from the source branch
+Changes from both the target and the source branch
